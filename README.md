@@ -120,6 +120,11 @@ All experiments were run on an MSI Raider 18 HX laptop with an NVIDIA RTX 5090 (
 - **Lippl, McGee et al. (2026)** — *Algorithmic Primitives and Compositional Geometry of Reasoning in Language Models* — Algorithmic primitive vectors with geometric compositionality
 - **Kaplan et al. (2025)** — *From Tokens to Words: On the Inner Lexicon of LLMs* (ICLR 2025) — Detokenization process in early-to-middle layers
 
+  ## Follow the Research
+
+This work is ongoing. New experiments, findings, and extensions will be posted on X:
+(https://x.com/0606Machado)
+
 ## License
 
 MIT
