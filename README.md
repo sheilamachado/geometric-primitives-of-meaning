@@ -2,7 +2,7 @@
 
 **Probing semantic primitives as geometric directions in transformer internal representations**
 
-**Theoretical Framework:** [The Skeleton in the Machine](the-skeleton-in-the-machine.md) why convergence is inevitable, and what would falsify it.
+**Theoretical Framework:** [The Skeleton in the Machine](skeleton_article.md) why convergence is inevitable, and what would falsify it.
 ---
 
 ## What is this?
