@@ -8,7 +8,7 @@
 
 This repository contains the code, data, and results from an exploration testing whether **meaning has geometric structure** inside language models.
 
-The hypothesis: a small set of semantic primitives — causation, agency, containment, sequence, property, quantity, identity, part/whole, and conditionality — correspond to **real, measurable, orthogonal directions** in a model's internal representation space. Like notes in music, these primitives combine to express all possible meanings.
+The hypothesis: a small set of semantic primitives — causation, agency, containment, sequence, property, quantity, identity, part/whole, and conditionality — correspond to **real, measurable, orthogonal directions** in a model's internal representation space.
 
 ## The Nine Primitives
 
@@ -112,7 +112,7 @@ python llm_brain_scanner.py Qwen/Qwen2.5-14B
 
 The hypothesis, conceptual framework, and experimental design are by **Sheila Machado**. The code, technical implementation, and iterative refinement of ideas were developed in collaboration with **Claude (Anthropic)**.
 
-All experiments were run on an MSI Raider 18 HX laptop with an NVIDIA RTX 5090 (32GB VRAM).
+All experiments were run on an MSI Raider 18 HX laptop with an NVIDIA RTX 5090 (24GB VRAM).
 
 ## Related Work
 
